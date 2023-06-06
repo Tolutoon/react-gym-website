@@ -9,9 +9,19 @@ function Header() {
 
         <ul className='header-menu'>
             <li>Home</li>
-            <li>Programs</li>
-            <li>Why us</li>
-            <li>Plans</li>
+            <li>
+              <a href='#programs'>Programs</a>
+            </li>
+            <li>
+              <a href='#reasons'>
+                Why us
+              </a>
+            </li>
+            <li>
+              <a href='#plans'>
+                Plans
+              </a>
+            </li>
             <li>Testimonials</li>
         </ul>
     </div>

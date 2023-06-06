@@ -6,7 +6,7 @@ import whiteTick from '../../assets/whiteTick.png';
 
 const Plans = () => {
   return (
-    <div className='plans-container'>
+    <div className='plans-container' id='plans'>
         <div className='programs-header' style={{gap: '2rem'}}>
             <span className='stroke'>READY TO START</span>
             <span>YOUR JOURNEY</span>
